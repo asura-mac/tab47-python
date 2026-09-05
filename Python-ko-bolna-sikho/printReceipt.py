@@ -1,0 +1,6 @@
+print("======Partha Store======")
+print("Notebook                        ₹60")
+print("Pen                                  ₹15")
+print("Eraser                               ₹5")
+print('---------------------------------------------')
+print("Total"+'                       ₹',60+15+5)
